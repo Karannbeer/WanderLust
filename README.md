@@ -23,3 +23,6 @@ HTML5, CSS3, JAVASCRIPT
 
 # Others
 This project also have implemented with MVC Freamwork
+
+# ScreenShot
+![Screenshot 2024-03-19 160349](https://github.com/Karannbeer/WanderLust/assets/136956467/624a144f-c6d9-44ee-a1c4-3c180755cb1f)
